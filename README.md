@@ -1,1 +1,15 @@
-# CODETECH-WEEK-4
+# RECOMMENDATION SYSTEM
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : Janthuka Naveen
+
+*INTERN ID* : CT04DA538
+
+*DOMAIN* : MACHINE LEARNING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
+*OUTPUT* :![Image](https://github.com/user-attachments/assets/3fa59dc0-2848-4b25-ac57-8e820b07029c)
